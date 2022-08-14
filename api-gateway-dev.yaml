@@ -1,4 +1,6 @@
 api-route:
-  jwt-service: /api/account
+  jwt-service:
+    account: /api/account
+    user: /api/user
 service-name:
   jwt-service: jwt-service
