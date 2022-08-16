@@ -2,5 +2,8 @@ api-route:
   jwt-service:
     account: /api/account
     user: /api/user
+  cart-service:
+    email: /api/cart
 service-name:
   jwt-service: jwt-service
+  cart-service: cart-service
